@@ -11,8 +11,8 @@ export default hopeTheme({
   breadcrumb: false,
   iconPrefix: "iconfont icon-",
   logo: "/logo.png",
-  repo: "https://github.com/JQiue/jqiue-notes",
-  docsRepo: "https://github.com/JQiue/jqiue-notes",
+  repo: "https://github.com/JQiue/modern-retinitis-pigmentosa",
+  docsRepo: "https://github.com/JQiue/modern-retinitis-pigmentosa",
   docsDir: "docs",
   docsBranch: "main",
   locales: {
